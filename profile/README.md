@@ -23,7 +23,7 @@ We are a small indie studio making simple, fun 2D games. Every game we make is f
 | **Burger Jumper** | Released | Windows, macOS, Web | [Source](https://github.com/burntburgerstudios/Burger-Jumper) · [Play on itch.io](https://burntburgerstudios.itch.io/burger-jumper) |
 | **Gravewake** | In development | Windows, Web, macOS(Soon) | [Source](https://github.com/burntburgerstudios/Gravewake) |
 
-- **Burger Jumper**: Free to play in the browser, on Windows, or on macOS.
+- **Burger Jumper**: A simple, fast 2D platformer. You play as a burger, jump across platforms, and reach the crate at the end of each level without falling.
 - **Gravewake**: a top-down 2D zombie wave shooter. Survive each wave.
 
 ## Community
